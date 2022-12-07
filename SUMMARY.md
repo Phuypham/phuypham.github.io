@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Blog](README.md)
+* [MozoX project](README.md)
