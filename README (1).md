@@ -1,5 +1,5 @@
 ---
-description: MozoX là dự án website về dịch vụ Cyber Security
+layout: landing
 ---
 
 # My typical projects
