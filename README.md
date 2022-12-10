@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/image.png
 coverY: 0
-layout: landing
 ---
 
 # Overview
